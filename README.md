@@ -1,5 +1,5 @@
-Project title: Smart incubator project using the Internet of Things
-
+<h1>Project title: Smart incubator project using the Internet of Things</h1>
+![image](1.jpg)
 1- Introduction:
 With the increasing population growth of the world and the need for more agricultural products, the use of incubators as a fast and efficient method for raising chicks of chickens and other birds has become very important. With the advancement of technology, facilities such as the Internet of Things can help improve the performance of the incubator. This project is presented with the aim of designing and building a smart incubator using the Internet of Things.
 
