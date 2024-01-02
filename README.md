@@ -1,3 +1,4 @@
+![dash png](dash.png)
 <h1>Project title: Smart incubator project using the Internet of Things</h1>
 
 <h2>1- Introduction:</h2>
