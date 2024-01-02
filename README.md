@@ -1,9 +1,9 @@
 <h1>Project title: Smart incubator project using the Internet of Things</h1>
-![image](1.jpg)
-1- Introduction:
+
+<h2>1- Introduction:</h2>
 With the increasing population growth of the world and the need for more agricultural products, the use of incubators as a fast and efficient method for raising chicks of chickens and other birds has become very important. With the advancement of technology, facilities such as the Internet of Things can help improve the performance of the incubator. This project is presented with the aim of designing and building a smart incubator using the Internet of Things.
 
-2- Project objectives:
+<h2>2- Project objectives:</h2>
 •  Design and build a smart incubator with the ability to control and monitor remotely using the Internet of Things.
 
 •  Increase the efficiency of the incubator by using various sensors that send information to the server and provide the user with the possibility of monitoring and accurate control of the device.
@@ -15,7 +15,7 @@ With the increasing population growth of the world and the need for more agricul
 •  Reduce the maintenance and supervision costs of the incubator by using smart solutions.
 
 
-3- Project requirements:
+<h2>3- Project requirements:</h2>
 •  Incubator with a capacity of at least 8 eggs
 
 •  Temperature and humidity sensors to control the temperature and humidity inside the incubator
@@ -35,7 +35,7 @@ With the increasing population growth of the world and the need for more agricul
 •  Ability to control the parameters of the incubator such as temperature, humidity and light remotely through the user software.
 
 
-4- Project benefits:
+<h2>4- Project benefits:</h2>
 •  Increase the efficiency and quality of incubation by controlling the environmental parameters accurately
 
 •  Reduce the risks that affect the incubation process
@@ -47,7 +47,7 @@ With the increasing population growth of the world and the need for more agricul
 •  Ability to monitor and control the incubator remotely using the user software.
 
 
-5- Project implementation steps:
+<h2>5- Project implementation steps:</h2>
 •  Design and build a smart incubator using the Internet of Things and various sensors
 
 •  Develop a communication system between the incubator and the server using MQTT and HTTP protocols
@@ -59,7 +59,7 @@ With the increasing population growth of the world and the need for more agricul
 •  Improve and optimize the system according to the feedback received.
 
 
-A list of electronic devices that may be used for the smart incubator project using the Internet of Things are:
+<h3>A list of electronic devices that may be used for the smart incubator project using the Internet of Things are:</h3>
 
 1. Microcontroller: A microcontroller board such as Arduino or Raspberry Pi, which can be used to control the incubator and communicate with the server via the Internet.
 
@@ -83,7 +83,7 @@ A list of electronic devices that may be used for the smart incubator project us
 
 This list is just an example of the electronic devices that can be used for the smart incubator project using the Internet of Things and there are other devices that may be useful for the project. If other modules are added, this list will be updated on the project day.
 
-6- Conclusion:
+<h2>6- Conclusion:</h2>
 The smart incubator project using the Internet of Things provides improved efficiency and quality of incubation by controlling the environmental parameters accurately and also reduces the maintenance and supervision costs by using smart solutions. Considering the importance of rapid population growth and the need for more agricultural products, implementing this project can help improve and optimize the incubation process.
 
 Thank you for your attention. Ali Mahdipour 9721162221
